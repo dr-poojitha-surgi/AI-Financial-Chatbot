@@ -16,12 +16,9 @@ The project showcases a full pipeline from structured data analysis and feature 
 
 ## Repository Structure
 
-- `/data`: Manually extracted financial datasets and metadata documentation.
-- `/src`: Python scripts for data analysis, chatbot integration, and utility functions.
-- `/notebooks`: Jupyter notebooks for EDA, chatbot demonstrations, and consulting insights generation.
-- `/examples`: Sample chatbot conversations, consulting reports, and visualizations.
-- `/docs`: Data dictionary, system architecture, and user guides.
-- `/tests`: Unit tests covering analysis and chatbot functionalities.
+- [Data](Data): Manually extracted financial dataset and documentation.
+- [Data Analysis](Data%20Analysis): Python scripts for data analysis.
+- [Chatbot Implementation](Chatbot): Chatbot Prototype for Financial Consulting.
 
 ## Getting Started
 

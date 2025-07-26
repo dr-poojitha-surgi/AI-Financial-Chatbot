@@ -8,7 +8,7 @@ The Python code and associated notebooks in this repository conduct data loading
 
 ## Data Description
 
-The dataset (`company_financials.csv`) contains the following financial metrics at the company-year level:
+The dataset (`processed_financial_data.csv`) contains the following financial metrics at the company-year level:
 
 - Total Revenue (USD millions)
 - Net Income (USD millions)
